@@ -1,6 +1,6 @@
 # GhostAgent
 An agent, that uses omniparser v2, as eyes, a locally ollam runned llama3.1 (use later version of llama if picked) as brain and python pygui as hands
-
+  
 # 👻 GhostAgent: Vision-Based Desktop Automation
 
 GhostAgent is an autonomous desktop assistant that "sees" the screen like a human and interacts with it using a mouse and keyboard. By combining the **Llama 3.1** reasoning engine with **OmniParser** for screen comprehension, GhostAgent can navigate complex GUIs, find search bars, and perform tasks across different applications.

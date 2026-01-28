@@ -20,7 +20,7 @@ GhostAgent is an autonomous desktop assistant that "sees" the screen like a huma
 | **Package Management** | Miniconda / Python 3.12 |
 | **Communication** | Gradio Client API |
 
----
+----
 
 ## 📋 Prerequisites
 
